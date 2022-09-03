@@ -1,3 +1,5 @@
 {
-  "scripts": "node index.js"
+  "scripts": {
+    "run-task": "node index.js"
+  }
 }
